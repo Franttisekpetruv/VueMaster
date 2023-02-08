@@ -1,0 +1,27 @@
+{
+  "categories": [
+    {
+      "forums": ["-KpOx5Y4AqRr3sB4Ybwj", "-KsjO4_W3W9Q2Z2UmuPr"],
+      "name": "Feedback & Information",
+      "slug": "feedback-and-information",
+      "id": "-KpR7vRkiRPpbUd_TVAR"
+    },
+    {
+      "forums": [
+        "-KsjPat5MWCx-dkjNVg8",
+        "-KsjPjasLh0TFtZmffEo",
+        "-Kvd1Vg_ankLYgrxC50F",
+        "-KvdCowY9mDvM0EH8Pvs",
+        "-KvhkEl6F673igPtnbso"
+      ],
+      "name": "Discussions",
+      "slug": "discussions",
+      "id": "-KsjPKA6hDuHlQK_lJWO"
+    },
+    {
+      "forums": ["-Kvclvu_Qd9QdS9ciqUl", "-KvcmOcppNYK8NCesmB9"],
+      "name": "Comedy",
+      "slug": "comedy",
+      "id": "-KvclpNRjpI5W-j0JQGU"
+    }
+  ]}
