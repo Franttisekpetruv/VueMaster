@@ -1,17 +1,18 @@
-<script setup>
-import { RouterLink, RouterView } from "vue-router";
-
-import PageHome from "./components/PageHome.vue";
-// export default {
-//   name: "App",
-//   components: { PageHome },
-// };
+<script>
+import theNavBar from "./components/theNavBar.vue";
+export default {
+  name: "App",
+  components: { theNavBar },
+};
 </script>
 
 <template>
+  <theNavBar></theNavBar>
   <div class="container">
-    <PageHome></PageHome>
+    <router-view></router-view>
   </div>
 </template>
 
-<style></style>
+<style>
+
+</style>
